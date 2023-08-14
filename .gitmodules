@@ -1,0 +1,78 @@
+[submodule "aho_corasick"]
+	path = aho_corasick
+	url = https://git.sr.ht/~ptrj/aho_corasick
+[submodule "byteorder"]
+	path = byteorder
+	url = https://git.sr.ht/~ptrj/byteorder
+[submodule "cc"]
+	path = cc
+	url = https://git.sr.ht/~ptrj/cc
+[submodule "cellsplit"]
+	path = cellsplit
+	url = https://git.sr.ht/~ptrj/cellsplit
+[submodule "cfg_if"]
+	path = cfg_if
+	url = https://git.sr.ht/~ptrj/cfg_if
+[submodule "cmake"]
+	path = cmake
+	url = https://git.sr.ht/~ptrj/cmake
+[submodule "crc32fast"]
+	path = crc32fast
+	url = https://git.sr.ht/~ptrj/crc32fast
+[submodule "glob"]
+	path = glob
+	url = https://git.sr.ht/~ptrj/glob
+[submodule "half"]
+	path = half
+	url = https://git.sr.ht/~ptrj/half
+[submodule "home"]
+	path = home
+	url = https://git.sr.ht/~ptrj/home
+[submodule "libc"]
+	path = libc
+	url = https://git.sr.ht/~ptrj/libc
+[submodule "libloading"]
+	path = libloading
+	url = https://git.sr.ht/~ptrj/libloading
+[submodule "memchr"]
+	path = memchr
+	url = https://git.sr.ht/~ptrj/memchr
+[submodule "minimal_lexical"]
+	path = minimal_lexical
+	url = https://git.sr.ht/~ptrj/minimal_lexical
+[submodule "nom"]
+	path = nom
+	url = https://git.sr.ht/~ptrj/nom
+[submodule "once_cell"]
+	path = once_cell
+	url = https://git.sr.ht/~ptrj/once_cell
+[submodule "regex"]
+	path = regex
+	url = https://git.sr.ht/~ptrj/regex
+[submodule "repugnant_pickle"]
+	path = repugnant_pickle
+	url = https://git.sr.ht/~ptrj/repugnant_pickle
+[submodule "rustc_serialize"]
+	path = rustc_serialize
+	url = https://git.sr.ht/~ptrj/rustc_serialize
+[submodule "sentencepiece_ffi"]
+	path = sentencepiece_ffi
+	url = https://git.sr.ht/~ptrj/sentencepiece_ffi
+[submodule "smol_str"]
+	path = smol_str
+	url = https://git.sr.ht/~ptrj/smol_str
+[submodule "zip"]
+	path = zip
+	url = https://git.sr.ht/~ptrj/zip
+[submodule "futhark"]
+	path = futhark
+	url = https://git.sr.ht/~ptrj/futhark-master
+[submodule "futhark_syntax"]
+	path = futhark_syntax
+	url = https://git.sr.ht/~ptrj/futhark_syntax
+[submodule "futhark_ffi"]
+	path = futhark_ffi
+	url = https://git.sr.ht/~ptrj/futhark_ffi
+[submodule "cacti"]
+	path = cacti
+	url = https://git.sr.ht/~ptrj/cacti
