@@ -7,9 +7,9 @@
 [submodule "cc"]
 	path = cc
 	url = https://git.sr.ht/~ptrj/cc
-[submodule "cellsplit"]
-	path = cellsplit
-	url = https://git.sr.ht/~ptrj/cellsplit
+[submodule "cell_split"]
+	path = cell_split
+	url = https://git.sr.ht/~ptrj/cell_split
 [submodule "cfg_if"]
 	path = cfg_if
 	url = https://git.sr.ht/~ptrj/cfg_if
