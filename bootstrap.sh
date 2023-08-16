@@ -4,7 +4,8 @@ cacti_bootstrap_commit="$(git show --format='%H'|head -1)"
 
 echo "- cacti-bootstrap: Bootstrapping from git submodules at commit ${cacti_bootstrap_commit}..."
 set -x
-git submodule update --init --recursive
+git submodule update --init
+git submodule update --init --recursive -- sentencepiece_ffi
 { set +x;} 2>&-
 
 echo "- cacti-bootstrap: Configuring cacti-futhark (note: this calls 'cabal update')..."
