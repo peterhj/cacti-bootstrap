@@ -1,78 +1,78 @@
 [submodule "aho_corasick"]
 	path = aho_corasick
-	url = https://git.sr.ht/~ptrj/aho_corasick
+	url = https://github.com/peterhj/aho_corasick
 [submodule "byteorder"]
 	path = byteorder
-	url = https://git.sr.ht/~ptrj/byteorder
+	url = https://github.com/peterhj/byteorder
 [submodule "cc"]
 	path = cc
-	url = https://git.sr.ht/~ptrj/cc
+	url = https://github.com/peterhj/cc
 [submodule "cell_split"]
 	path = cell_split
-	url = https://git.sr.ht/~ptrj/cell_split
+	url = https://github.com/peterhj/cell_split
 [submodule "cfg_if"]
 	path = cfg_if
-	url = https://git.sr.ht/~ptrj/cfg_if
+	url = https://github.com/peterhj/cfg_if
 [submodule "cmake"]
 	path = cmake
-	url = https://git.sr.ht/~ptrj/cmake
+	url = https://github.com/peterhj/cmake
 [submodule "crc32fast"]
 	path = crc32fast
-	url = https://git.sr.ht/~ptrj/crc32fast
+	url = https://github.com/peterhj/crc32fast
 [submodule "glob"]
 	path = glob
-	url = https://git.sr.ht/~ptrj/glob
+	url = https://github.com/peterhj/glob
 [submodule "half"]
 	path = half
-	url = https://git.sr.ht/~ptrj/half
+	url = https://github.com/peterhj/half
 [submodule "home"]
 	path = home
-	url = https://git.sr.ht/~ptrj/home
+	url = https://github.com/peterhj/home
 [submodule "libc"]
 	path = libc
-	url = https://git.sr.ht/~ptrj/libc
+	url = https://github.com/peterhj/libc
 [submodule "libloading"]
 	path = libloading
-	url = https://git.sr.ht/~ptrj/libloading
+	url = https://github.com/peterhj/libloading
 [submodule "memchr"]
 	path = memchr
-	url = https://git.sr.ht/~ptrj/memchr
+	url = https://github.com/peterhj/memchr
 [submodule "minimal_lexical"]
 	path = minimal_lexical
-	url = https://git.sr.ht/~ptrj/minimal_lexical
+	url = https://github.com/peterhj/minimal_lexical
 [submodule "nom"]
 	path = nom
-	url = https://git.sr.ht/~ptrj/nom
+	url = https://github.com/peterhj/nom
 [submodule "once_cell"]
 	path = once_cell
-	url = https://git.sr.ht/~ptrj/once_cell
+	url = https://github.com/peterhj/once_cell
 [submodule "regex"]
 	path = regex
-	url = https://git.sr.ht/~ptrj/regex
+	url = https://github.com/peterhj/regex
 [submodule "repugnant_pickle"]
 	path = repugnant_pickle
-	url = https://git.sr.ht/~ptrj/repugnant_pickle
+	url = https://github.com/peterhj/repugnant_pickle
 [submodule "rustc_serialize"]
 	path = rustc_serialize
-	url = https://git.sr.ht/~ptrj/rustc_serialize
+	url = https://github.com/peterhj/rustc_serialize
 [submodule "sentencepiece_ffi"]
 	path = sentencepiece_ffi
-	url = https://git.sr.ht/~ptrj/sentencepiece_ffi
+	url = https://github.com/peterhj/sentencepiece_ffi
 [submodule "smol_str"]
 	path = smol_str
-	url = https://git.sr.ht/~ptrj/smol_str
+	url = https://github.com/peterhj/smol_str
 [submodule "zip"]
 	path = zip
-	url = https://git.sr.ht/~ptrj/zip
+	url = https://github.com/peterhj/zip
 [submodule "futhark"]
 	path = futhark
-	url = https://git.sr.ht/~ptrj/futhark
+	url = https://github.com/peterhj/futhark
 [submodule "futhark_syntax"]
 	path = futhark_syntax
-	url = https://git.sr.ht/~ptrj/futhark_syntax
+	url = https://github.com/peterhj/futhark_syntax
 [submodule "futhark_ffi"]
 	path = futhark_ffi
-	url = https://git.sr.ht/~ptrj/futhark_ffi
+	url = https://github.com/peterhj/futhark_ffi
 [submodule "cacti"]
 	path = cacti
-	url = https://git.sr.ht/~ptrj/cacti
+	url = https://github.com/peterhj/cacti
