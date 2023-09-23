@@ -19,6 +19,9 @@
 [submodule "crc32fast"]
 	path = crc32fast
 	url = https://github.com/peterhj/crc32fast
+[submodule "fxhash"]
+	path = fxhash
+	url = https://github.com/peterhj/fxhash
 [submodule "glob"]
 	path = glob
 	url = https://github.com/peterhj/glob
