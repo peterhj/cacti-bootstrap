@@ -1,6 +1,12 @@
 [submodule "aho_corasick"]
 	path = aho_corasick
 	url = https://github.com/peterhj/aho_corasick
+[submodule "arrayvec"]
+	path = arrayvec
+	url = https://github.com/peterhj/arrayvec
+[submodule "blake2"]
+	path = blake2
+	url = https://github.com/peterhj/blake2
 [submodule "byteorder"]
 	path = byteorder
 	url = https://github.com/peterhj/byteorder
@@ -16,6 +22,9 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/peterhj/cmake
+[submodule "constant_time_eq"]
+	path = constant_time_eq
+	url = https://github.com/peterhj/constant_time_eq
 [submodule "crc32fast"]
 	path = crc32fast
 	url = https://github.com/peterhj/crc32fast
